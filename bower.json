@@ -6,16 +6,15 @@
     "derekdowling <me@derekdowling.com>"
   ],
   "description": "My portfolio dependencies",
-  "main": "scripts.js",
   "keywords": [
     "portfolio"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "vendor",
     "test",
     "tests"
   ],
