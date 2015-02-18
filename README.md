@@ -1,16 +1,9 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
-
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
-
-Read requirements.org
-
-Read this comic http://theoatmeal.com/comics/design_hell
-
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+No installation is required to get everything up and running. Normally I would
+not include a beefy vendor folder, but I didn't want you to have to install any
+tools or run any commands via bower or npm to get this thing working.
 
 Modifications To HTML
 ===
@@ -30,6 +23,8 @@ Code is licensed under the Apache 2.0 license.
 
 Resources Attributed
 ===
+
+For the good version of my portfolio I used the following libraries:
 
 [Bootstrap](http://getbootstrap.com/)
 [Bootstrap-Social](http://lipis.github.io/bootstrap-social/)
